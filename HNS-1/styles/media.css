@@ -1,0 +1,59 @@
+/* ///////////////////////@media screen and (max-width:1024px)////////////////////// */
+
+@media screen and (max-width:1024px){
+     
+    .button {
+        max-width: 200px;
+    }
+
+    .about-round { 
+        max-width: 360px;
+}
+
+/* .rounded-rectangle {
+    margin-top: 195px;
+} */
+
+.img-alice {
+    width: 100%;
+}
+
+.ellipse-para {
+    max-width: 277px;
+}
+
+.rounded-rectangle .img-alice {
+    margin-top: 0px;
+}
+
+ 
+}
+
+
+/* //////////////@media screen and (max-width:767px){//////////////// */
+    @media screen and (max-width:767px){
+        .hnsdomains {
+            font-size: 48px;
+        }  
+        
+        .mysearch {
+            width: 100%;
+        }
+
+        ::placeholder {
+            font-size: 15px;
+         }
+
+        .button {
+            max-width: 100px;
+        }
+
+        .heading-5 {
+            font-size: 30px;
+        }
+
+        .main-contain {
+            display: flex; 
+            flex-direction: row;
+        }
+    }   

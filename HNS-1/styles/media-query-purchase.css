@@ -1,0 +1,203 @@
+/* ///////////@media screen and  (max-width: 1024px)////////////////////// */
+
+@media screen and (min-width: 768px) and (max-width:1024px){
+    .header-Box1 {
+        width: 20%;
+    }
+
+    .header-Box2 {
+        width: 9%;
+    }
+
+    .header-Box3 {
+        width: 57%;
+    }
+
+    .header-Box4 {
+        width: 14%;
+    }
+
+    .main-left {
+        width: 29%;
+    }
+
+    .main-right {
+        width: 71%;
+    }
+
+    .logo-img {
+        margin: 18px 28px;
+    }
+
+    .hns {
+        position: absolute;
+        font-size: 26px;
+        margin: 20px -4px;
+    }
+
+    .calculate-box {
+        height: 50px;
+    }
+
+    .search-result {
+        font-size: 20px;
+    }
+
+    .owndomain1 {
+        font-size: 28px;
+    }
+
+    .plus-p {
+        padding: 2px 10px;
+    }
+
+    .minus-m {
+        padding: 2px 10px;
+    }
+
+    .year-list {
+        font-size: 12px;
+        
+    }
+
+    .hbar-main-1 {
+        margin: 7px 21px;
+        padding: 7px 0px;
+    }
+
+
+
+    .images-link {
+        padding: 8px 13px;
+    }
+
+    .HBAR-0 {
+        font-size: 12px;  
+    }
+
+    .HBAR-1 {
+        font-size: 12px; 
+    }
+
+    .rental-period {
+        font-size: 12px;
+    }
+    
+    .total-price {
+        font-size: 12px;
+        line-height: 2.7;
+        padding: 0px 20px;
+    }
+    
+    .Rounded-Rectangle {
+        font-size: 12px;
+    }
+
+    .resgistering-para {
+        font-size: 12px;
+    }
+
+    .Lorem {
+        font-size: 12px;
+        line-height: 1;
+    }
+
+    .content {
+        font-size: 12px;
+    }
+    
+}
+
+
+
+@media screen and (min-width: 899px) and (max-width: 900px){
+    .search-result {
+        font-size: 20px;
+    }
+
+    .owndomain1 {
+        font-size: 20px;
+    }
+
+    .rental-period {
+        font-size: 12px;
+    }
+
+    .total-price {
+        font-size: 12px;
+        margin-top: 11px;
+    }
+
+    .resgistering-para {
+        font-size: 10px;
+    }
+
+    .Lorem {
+        font-size: 10px;
+    }
+
+    .year-list {
+        font-size: 12px;
+    }
+
+    .content {
+        font-size: 10px;
+        text-align: justify;
+    }
+
+    .Rounded-Rectangle {
+        font-size: 14px;
+    }
+
+}
+
+
+
+@media screen and (min-width: 799px) and (max-width: 800px){
+    .hbar-main-1 {
+        margin: 7px 21px;
+        padding: 7px 0px;
+    }
+
+
+
+    .images-link {
+        padding: 8px 13px;
+    }
+
+    .HBAR-0 {
+        font-size: 9px;  
+    }
+
+    .HBAR-1 {
+        font-size: 9px; 
+    }
+
+    .rental-period {
+        font-size: 11px;
+    }
+    
+    .total-price {
+        font-size: 11px;
+        /* line-height: 2.7; */
+        padding: 0px 20px;
+        margin-top: 18px;
+    }
+
+    .resgistering-para {
+        font-size: 8px;
+    }
+
+    .Lorem {
+        font-size: 8px;
+        line-height: 1;
+    }
+
+    .content {
+        font-size: 8px;
+    }
+
+    .Rounded-Rectangle {
+        font-size: 8px;
+    }
+}

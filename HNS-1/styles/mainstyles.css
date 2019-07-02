@@ -1,0 +1,389 @@
+/*//////// HEADER //////////*/
+
+#header-Box {
+    width:100%;
+    margin: 0 auto; 
+    height:89px; 
+}
+
+.header-Box1 {
+    float:left;
+    width:16%;
+    background-color: #65d0ae;
+    min-height: 90px;
+}
+
+.logo-img {  
+    margin: 18px 37px;
+    cursor: pointer;
+}
+
+.hns {
+    position: absolute;
+    margin: 15px -11px;
+    font-family: Poppins;
+    font-size: 36px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal; 
+    letter-spacing: normal; 
+    color: #ffffff;
+    line-height: 1.72;
+}
+
+.header-Box2 {
+    float:left;
+    width:11%;
+    background-color: #65d0ae;
+    min-height: 90px;
+    text-align: center;
+    border-left: 2px solid #3ac4a1;
+    
+}
+
+.relatives { 
+    margin-top: 27px;
+    cursor: pointer;
+}
+
+.header-Box3 {
+    float:left;
+    width:59%;
+    background-color: #3ac4a1;
+    min-height: 90px;
+}
+
+.service-heading-6 {
+    padding: 32px 0 0 40px;
+    font-family: Poppins;
+    font-size: 24px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal; 
+    letter-spacing: normal; 
+    color: #ffffff;
+}
+
+.header-Box4 {
+    float:left;
+    width:14%;
+    cursor: pointer;
+    background-color: #292b35;
+    min-height: 90px;
+    border: none;
+    font-family: Poppins;
+    font-size: 20px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.75;
+    letter-spacing: normal;
+    text-align: center;
+    color: #ffffff;
+}
+
+ 
+/* //////////////////(MAIN_LEFT)///////////////////////// */
+
+.main-left {
+    width: 27%;
+    text-align: center;
+    margin-top: 94px; 
+    float: left;
+}
+
+.Virtous {
+    font-family: Poppins;
+    font-size: 24px;
+    font-weight: 600;
+    font-style: normal;
+    font-stretch: normal;
+    margin-top: 19px;
+    letter-spacing: normal; 
+    color: #353740;
+}
+
+.para {
+    margin-bottom: 79px;
+    font-family: Poppins;
+    font-size: 18px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 2.5;
+    letter-spacing: normal; 
+    color: #3ac4a1;
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+.pages {
+    border-bottom: 1px solid #e4f1ee;
+}
+
+p { 
+    padding: 0px 0px 20px;
+    margin: 20px 34px;
+    font-family: Poppins;
+    font-size: 18px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal; 
+    letter-spacing: normal;
+    text-align: left;
+    color: #292b35; 
+    cursor: pointer;
+}
+ 
+
+/* //////////////////(MAIN_RIGHT)///////////////////// */
+
+.main-right {
+    width: 73%;
+    background-color: #e4f1ee;
+    float: left; 
+    position: relative;
+}
+
+
+.section-border {
+    border-bottom: 1px solid #c6c8d2;
+    padding: 0px 0 12px;
+    margin: 34px 39px 0px;
+}
+ 
+
+  .search-result { 
+    font-family: Poppins;
+    font-size: 24px;
+    font-weight: 600;
+    font-style: normal;
+    font-stretch: normal; 
+    letter-spacing: normal; 
+    color: #353740; 
+}  
+ 
+
+
+/* //////////////(TABLE_)///////////////////// */
+
+td.cta {
+    background: #3ac4a1;
+    color: #fff;
+    text-align: center;
+    height: 100%;
+    cursor: pointer;
+    padding: 26px 12px !important;
+}
+
+td.img {
+    background: #ffff;
+    color: #fff;
+    text-align: center;
+    height: 100%;
+    cursor: pointer; 
+}
+
+.dta:first-child{
+    border-top-left-radius: 4px; 
+    border-bottom-left-radius: 4px; 
+}
+
+.img:last-child {
+    border-top-right-radius: 4px;
+    border-bottom-right-radius: 4px;
+}
+
+td.dta {
+    background: #ffff; 
+    text-align: center;
+    height: 100%;
+    cursor: pointer; 
+    font-family: Poppins;
+    font-size: 22px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.59;
+    letter-spacing: normal; 
+    color: #353740;
+}
+
+.table thead th {
+    vertical-align: bottom;
+    text-align: center;
+}
+
+.table-padd {
+    padding: 28px;
+    padding-top: 0;
+    margin-top: -20px;
+}  
+
+ 
+.action-lign {
+    padding-left: 0px !important;
+}
+
+.table td, .table th{
+    border-top:none!important; 
+    text-align: justify;
+    padding-left: 34px;
+    padding-top: 26px;
+    padding-right: 26px;
+    padding-bottom: 7px;
+}
+
+table.table {
+    border-collapse:separate; 
+    border-spacing:0 28px; 
+    margin-bottom: 72px;
+}
+
+.cta {
+    text-align: center!important;
+    font-family: Poppins;
+    font-size: 22px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.59;
+    letter-spacing: normal; 
+    color: #ffffff;
+}
+
+.img {
+    text-align: center!important;
+    padding: 24px !important;
+}
+
+#red {
+    background-color: #f83239;
+}
+
+.unavailable-light {
+    opacity: 0.5;
+}
+
+.table-padd {
+    padding: 28px;
+    PADDING-TOP: 0;
+    margin-top: -58px;
+}
+
+.tta {
+    font-family: Poppins;
+    font-size: 22px;
+    font-weight: bold;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.59;
+    letter-spacing: normal;
+    text-align: left;
+    color: #3ac4a1;
+}
+
+
+/* /////////(BACKGROUND_IMAGE)////////////// */
+
+.main {
+    width:100%;
+    margin: 0 auto; 
+    overflow-x: hidden;
+}
+
+.main-right:before {
+    position: absolute;
+    content: '';
+    background: url(/images/vector.png);
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    z-index: 1;
+    background-size: contain;
+    background-position: bottom;
+    background-repeat: no-repeat;
+}
+
+.main-right>* {
+    position: relative;
+    z-index: 10;
+}
+
+/* ////////////(FOOTER_)/////////// */
+
+.footer-000 {
+    width: 100%;
+    /* min-height: 72px; */
+    background-color: #292b35;
+    position: relative;
+    position: fixed;
+    bottom: 0;
+    height: 72px;
+    z-index: 15;
+}
+
+.footer {
+    width: 100%;
+    min-height: 72px;
+    background-color: #292b35;
+}
+
+.smart_object-2 { 
+    width: 40px;
+    margin: 18px 38px;
+    cursor: pointer;
+}
+
+.hns-2 {
+    position: absolute;
+    margin: 20px -12px;
+    font-family: Poppins;
+    font-size: 18px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.94;
+    letter-spacing: normal;
+    text-align: left;
+    color: #ffffff;
+}
+
+.facebook {
+    float: right;
+    padding: 22px 36px 0px 10px;
+    cursor: pointer;
+    filter: invert(1);
+    width: 77px;
+} 
+
+.twitter {
+    float: right;
+    padding: 22px 0px 0px;
+    cursor: pointer;
+    filter: invert(1);
+    width: 31px;
+}
+
+.circle {
+    background: #fff;
+    color: black;
+    padding: 4px; 
+}
+
+.fa-twitter {
+    float: right;
+    border-radius: 50%;
+    margin: .15em;
+    font-size: 20px;
+}
+
+.fa-facebook {
+    float: right;
+    border-radius: 50%;
+    margin: .15em;
+    font-size: 20px;
+}

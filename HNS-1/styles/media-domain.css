@@ -1,0 +1,27 @@
+/* ///////////////////////@media screen and (max-width:1024px)////////////////////// */
+
+@media screen and (min-width: 701px) and (max-width: 1024px){
+    .logo-img {
+        margin: 18px 25px;
+    }
+
+    .hns {
+        position: absolute;
+        margin: 22px -18px;
+        font-size: 26px;
+    }
+    
+}
+
+/* //////////////@media screen and (max-width:767px){//////////////// */
+    /* @media screen and (min-width:1025px) and (max-width: 1160px){
+        .logo-img {
+            margin: 18px 30px;
+        }
+        
+        .hns {
+            position: absolute;
+            margin: 18px -26px; 
+            font-size: 33px;
+        }
+    } */
